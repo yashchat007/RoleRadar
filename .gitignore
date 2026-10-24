@@ -1,0 +1,16 @@
+node_modules/
+frontend/dist/
+backend/.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+backend/.env
+backend/logs/
+backend/data/resumes/*
+!backend/data/resumes/.gitkeep
+*.log
+frontend/test-results/
+.DS_Store
+Thumbs.db

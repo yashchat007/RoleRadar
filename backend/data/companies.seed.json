@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Google",
+    "career_page_url": "https://www.google.com/about/careers/applications/",
+    "adapter_key": "google_official",
+    "parser_status": "pending_validation",
+    "is_enabled": false
+  },
+  {
+    "name": "Microsoft",
+    "career_page_url": "https://careers.microsoft.com/",
+    "adapter_key": "microsoft_official",
+    "parser_status": "pending_validation",
+    "is_enabled": false
+  },
+  {
+    "name": "Meta",
+    "career_page_url": "https://www.metacareers.com/",
+    "adapter_key": "meta_official",
+    "parser_status": "pending_validation",
+    "is_enabled": false
+  },
+  {
+    "name": "Amazon",
+    "career_page_url": "https://www.amazon.jobs/",
+    "adapter_key": "amazon_official",
+    "parser_status": "pending_validation",
+    "is_enabled": false
+  },
+  {
+    "name": "Apple",
+    "career_page_url": "https://jobs.apple.com/",
+    "adapter_key": "apple_official",
+    "parser_status": "pending_validation",
+    "is_enabled": false
+  },
+  {
+    "name": "Netflix",
+    "career_page_url": "https://jobs.netflix.com/",
+    "parser_status": "pending_validation",
+    "is_enabled": false
+  },
+  {
+    "name": "NVIDIA",
+    "career_page_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+    "parser_status": "pending_validation",
+    "is_enabled": false
+  },
+  {
+    "name": "Adobe",
+    "career_page_url": "https://careers.adobe.com/",
+    "parser_status": "pending_validation",
+    "is_enabled": false
+  },
+  {
+    "name": "Salesforce",
+    "career_page_url": "https://careers.salesforce.com/",
+    "parser_status": "pending_validation",
+    "is_enabled": false
+  },
+  {
+    "name": "Atlassian",
+    "career_page_url": "https://www.atlassian.com/company/careers",
+    "adapter_key": "atlassian_official",
+    "parser_status": "pending_validation",
+    "is_enabled": false
+  },
+  {
+    "name": "Uber",
+    "career_page_url": "https://www.uber.com/us/en/careers/",
+    "parser_status": "pending_validation",
+    "is_enabled": false
+  },
+  {
+    "name": "Stripe",
+    "career_page_url": "https://stripe.com/jobs/search",
+    "adapter_key": "stripe_official",
+    "parser_status": "pending_validation",
+    "is_enabled": false
+  },
+  {
+    "name": "Datadog",
+    "career_page_url": "https://careers.datadoghq.com/",
+    "parser_status": "pending_validation",
+    "is_enabled": false
+  },
+  {
+    "name": "Cloudflare",
+    "career_page_url": "https://www.cloudflare.com/careers/",
+    "adapter_key": "cloudflare_official",
+    "parser_status": "pending_validation",
+    "is_enabled": false
+  },
+  {
+    "name": "Oracle",
+    "career_page_url": "https://careers.oracle.com/",
+    "parser_status": "pending_validation",
+    "is_enabled": false
+  },
+  {
+    "name": "Cisco",
+    "career_page_url": "https://careers.cisco.com/",
+    "parser_status": "pending_validation",
+    "is_enabled": false
+  },
+  {
+    "name": "Qualcomm",
+    "career_page_url": "https://careers.qualcomm.com/",
+    "parser_status": "pending_validation",
+    "is_enabled": false
+  },
+  {
+    "name": "Intuit",
+    "career_page_url": "https://careers.intuit.com/",
+    "parser_status": "pending_validation",
+    "is_enabled": false
+  },
+  {
+    "name": "Walmart Global Tech",
+    "career_page_url": "https://careers.walmart.com/",
+    "parser_status": "pending_validation",
+    "is_enabled": false
+  },
+  {
+    "name": "Goldman Sachs",
+    "career_page_url": "https://higher.gs.com/results",
+    "adapter_key": "goldman_official",
+    "parser_status": "pending_validation",
+    "is_enabled": false
+  },
+  {
+    "name": "Bank of America",
+    "career_page_url": "https://careers.bankofamerica.com/",
+    "adapter_key": "bofa_official",
+    "parser_status": "pending_validation",
+    "is_enabled": false
+  },
+  {
+    "name": "JPMorgan Chase",
+    "career_page_url": "https://www.jpmorganchase.com/careers/explore-opportunities",
+    "adapter_key": "jpmorgan_official",
+    "parser_status": "pending_validation",
+    "is_enabled": false
+  },
+  {
+    "name": "Dell Technologies",
+    "career_page_url": "https://jobs.dell.com/",
+    "parser_status": "pending_validation",
+    "is_enabled": false
+  },
+  {
+    "name": "Morgan Stanley",
+    "career_page_url": "https://morganstanley.eightfold.ai/careers",
+    "adapter_key": "morgan_stanley_official",
+    "parser_status": "pending_validation",
+    "is_enabled": false
+  }
+]
